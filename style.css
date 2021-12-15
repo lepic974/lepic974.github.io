@@ -9,3 +9,16 @@ body{
 	background-color: #383838;
 	font-family: 'Poppins', sans-serif;
 }
+
+.content {
+  color: #09FBBA;
+  transition: 1s;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 4rem;
+}
+p {
+  padding: 3rem 5rem;
+}
